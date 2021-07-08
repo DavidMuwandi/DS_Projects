@@ -6,6 +6,5 @@ heart disease to allow for early mitigation thus saving lives and reducing relat
 2. Classification of car sales customers - Developed a model to predict patients at risk of developing heart disease to allow for 
 early mitigation thus saving lives and reducing related medical expenditure.
 
-3. Identify patients at risk of hear disease - Developed a model to classify potential/new customers. The model can assist marketing
- and customer service personnel to package their products and services to improve customer experience resulting in a higher Lead to 
-Sale Conversion Rate.  
+3. Identify patients at risk of heart disease -Developed a model to predict patients at risk of developing heart disease to allow
+ for early mitigation thus saving lives and reducing related medical expenditure.
